@@ -1,3 +1,4 @@
 # Website
-React one page website using react-router-dom and fake backend.
-Using axios there is a get request and then the product list is rendered on page.
+Hi this is my portfolio website using React.
+I have created it using create-react-app.
+I designed it using Bootstrap cards,navbar ,progress bar and have used google Fonts.
